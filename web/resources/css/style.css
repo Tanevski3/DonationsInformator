@@ -511,7 +511,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#212121', end
 
 #content #login .formfield label { width:80px;}
 #content #create-edit-page .formfield label { width:160px;}
-#content #create-edit-page span.select {left:175px;!important}
+#content #create-edit-page span.select {left:175px;}
 
 #manage-users .blue-button, #manage-companies .blue-button, #view-company .blue-button { float:right; padding-left:15px; padding-right:15px;}
 
