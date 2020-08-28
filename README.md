@@ -1,4 +1,11 @@
-DonationsInformator
-===================
+# DonationsInformator
+> A small donation scraper web app
 
-A small donation scraper web app me and my friends created
+## Contact
+
+For contact, you can reach me at [marjantanevski@outlook.com](marjantanevski@outlook.com).
+
+## License
+
+MIT © [Marjan Tanevski](marjantanevski@outlook.com)
+
