@@ -1,4 +1,4 @@
-# DonationsInformator
+# Donations Informator
 > A small donation web scraper app
 
 ## Contact
